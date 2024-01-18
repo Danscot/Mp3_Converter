@@ -13,8 +13,7 @@ This project is an open-source MP3 file converter, designed to provide a simple 
 
 Before using the MP3 File Converter, ensure that you have the following software installed on your system:
 
-- [Python](https://www.python.org/) (version X.X.X or higher)
-- [FFmpeg](https://ffmpeg.org/) (version X.X.X or higher)
+- [Python](https://www.python.org/) (version 2.10 or higher)
 
 ## Installation
 
